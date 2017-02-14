@@ -1,1 +1,2 @@
-これはindexControllerです。
+//これはindexControllerです。
+//i am yuxiang
